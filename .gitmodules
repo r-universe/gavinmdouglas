@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FuncDiv"]
+	path = FuncDiv
+	url = https://github.com/gavinmdouglas/funcdiv
+	shallow = true
+	registered = true
+[submodule "POMS"]
+	path = POMS
+	url = https://github.com/gavinmdouglas/poms
+	shallow = true
+	registered = true

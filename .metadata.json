@@ -1,0 +1,10 @@
+[
+  {
+    "package": "FuncDiv",
+    "oncran": true
+  },
+  {
+    "package": "POMS",
+    "oncran": true
+  }
+]
